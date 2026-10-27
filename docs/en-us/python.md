@@ -12,10 +12,10 @@ The API base URL is https://api.solucaptcha.com. These repository clients send J
 
 Create an account, verify your email and generate an API key in the dashboard. Add credits before creating real tasks. Keep the key on your server; do not put it in browser code, URLs, screenshots or commits.
 
-[Manage API keys](https://solucaptcha.com/en-us/dashboard/api-keys) · [Add credits](https://solucaptcha.com/en-us/dashboard/credits) · [GitHub](https://github.com/7LCodes/solucaptcha-examples)
+[Manage API keys](https://solucaptcha.com/en-us/dashboard/api-keys) · [Add credits](https://solucaptcha.com/en-us/dashboard/credits) · [GitHub](https://github.com/luiz7filipe/solucaptcha-examples)
 
 ```bash
-git clone https://github.com/7LCodes/solucaptcha-examples.git
+git clone https://github.com/luiz7filipe/solucaptcha-examples.git
 cd solucaptcha-examples
 ```
 
@@ -93,4 +93,4 @@ Run the isolated tests below. They mock HTTP and do not solve real captchas, req
 python -m unittest discover -s tests/python -v
 ```
 
-[Python source on GitHub](https://github.com/7LCodes/solucaptcha-examples/tree/main/examples/python) · [Service status](https://solucaptcha.com/en-us/status)
+[Python source on GitHub](https://github.com/luiz7filipe/solucaptcha-examples/tree/main/examples/python) · [Service status](https://solucaptcha.com/en-us/status)

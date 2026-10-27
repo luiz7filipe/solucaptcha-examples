@@ -68,4 +68,4 @@ The catalog is public and does not receive your key. Public fields are name, des
 - Read cost for the confirmed charge; reservedCost can describe an active task reservation.
 - Available balance is shared by keys in the same account. Later price changes do not alter an existing task reservation.
 
-[getBalance](https://solucaptcha.com/en-us/docs/get-balance) · [Deposits and balance](https://solucaptcha.com/en-us/docs/deposits) · [Service demos](https://solucaptcha.com/en-us/demos) · [GitHub](https://github.com/7LCodes/solucaptcha-examples)
+[getBalance](https://solucaptcha.com/en-us/docs/get-balance) · [Deposits and balance](https://solucaptcha.com/en-us/docs/deposits) · [Service demos](https://solucaptcha.com/en-us/demos) · [GitHub](https://github.com/luiz7filipe/solucaptcha-examples)

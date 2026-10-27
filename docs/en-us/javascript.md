@@ -12,10 +12,10 @@ The API base URL is https://api.solucaptcha.com. These repository clients send J
 
 Create an account, verify your email and generate an API key in the dashboard. Add credits before creating real tasks. Keep the key on your server; do not put it in browser code, URLs, screenshots or commits.
 
-[Manage API keys](https://solucaptcha.com/en-us/dashboard/api-keys) · [Add credits](https://solucaptcha.com/en-us/dashboard/credits) · [GitHub](https://github.com/7LCodes/solucaptcha-examples)
+[Manage API keys](https://solucaptcha.com/en-us/dashboard/api-keys) · [Add credits](https://solucaptcha.com/en-us/dashboard/credits) · [GitHub](https://github.com/luiz7filipe/solucaptcha-examples)
 
 ```bash
-git clone https://github.com/7LCodes/solucaptcha-examples.git
+git clone https://github.com/luiz7filipe/solucaptcha-examples.git
 cd solucaptcha-examples
 ```
 
@@ -91,4 +91,4 @@ node tools/check-repository.mjs
 
 Tests mock HTTP and cover API errors even when HTTP is 200, deadlines, redirects and the absence of automatic createTask retries. They check the client contract, not effectiveness against real challenges.
 
-[JavaScript source on GitHub](https://github.com/7LCodes/solucaptcha-examples/tree/main/examples/javascript) · [Service status](https://solucaptcha.com/en-us/status)
+[JavaScript source on GitHub](https://github.com/luiz7filipe/solucaptcha-examples/tree/main/examples/javascript) · [Service status](https://solucaptcha.com/en-us/status)

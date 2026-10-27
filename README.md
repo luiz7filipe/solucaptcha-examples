@@ -2,7 +2,7 @@
 
 <p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português</a> · <a href="https://solucaptcha.com/en-us/docs">Documentation</a> · <a href="https://solucaptcha.com/en-us/status">Status</a></p>
 
-<p align="center"><img src="assets/badges/python.svg" alt="Python 3.11+"> <img src="assets/badges/javascript.svg" alt="Node.js 22+"> <img src="assets/badges/dependencies.svg" alt="Zero runtime dependencies"> <a href="https://github.com/7LCodes/solucaptcha-examples/actions/workflows/ci.yml"><img src="https://github.com/7LCodes/solucaptcha-examples/actions/workflows/ci.yml/badge.svg" alt="Continuous integration"></a> <a href="LICENSE"><img src="assets/badges/license.svg" alt="MIT License"></a></p>
+<p align="center"><img src="assets/badges/python.svg" alt="Python 3.11+"> <img src="assets/badges/javascript.svg" alt="Node.js 22+"> <img src="assets/badges/dependencies.svg" alt="Zero runtime dependencies"> <a href="https://github.com/luiz7filipe/solucaptcha-examples/actions/workflows/ci.yml"><img src="https://github.com/luiz7filipe/solucaptcha-examples/actions/workflows/ci.yml/badge.svg" alt="Continuous integration"></a> <a href="LICENSE"><img src="assets/badges/license.svg" alt="MIT License"></a></p>
 
 # SoluCaptcha integration examples
 
@@ -24,7 +24,7 @@ Server-side **Python and JavaScript** examples with small HTTP clients, ready-to
 ## Quick start: no key, no charge
 
 ```bash
-git clone https://github.com/7LCodes/solucaptcha-examples.git
+git clone https://github.com/luiz7filipe/solucaptcha-examples.git
 cd solucaptcha-examples
 
 # Python
@@ -113,3 +113,7 @@ CI covers Linux and Windows, Python/Node.js versions, payloads, internal links, 
 - [MIT License](LICENSE)
 
 For account, billing or ticket issues, use [official support](https://solucaptcha.com/en-us/contact). Do not publish keys, solutions, cookies or customer data in issues.
+
+---
+
+Maintained by [LCodes](https://github.com/luiz7filipe).

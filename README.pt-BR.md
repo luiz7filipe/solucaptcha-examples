@@ -1,8 +1,8 @@
-<p align="center"><a href="https://solucaptcha.com/pt-br"><img src="assets/cover.svg" alt="SoluCaptcha developer examples" width="100%"></a></p>
+<p align="center"><a href="https://solucaptcha.com/pt-br"><img src="assets/cover.svg" alt="Exemplos de integração SoluCaptcha" width="100%"></a></p>
 
 <p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português</a> · <a href="https://solucaptcha.com/pt-br/docs">Documentação</a> · <a href="https://solucaptcha.com/pt-br/status">Status</a></p>
 
-<p align="center"><img src="assets/badges/python.svg" alt="Python 3.11+"> <img src="assets/badges/javascript.svg" alt="Node.js 22+"> <img src="assets/badges/dependencies.svg" alt="Zero runtime dependencies"> <a href="https://github.com/7LCodes/solucaptcha-examples/actions/workflows/ci.yml"><img src="https://github.com/7LCodes/solucaptcha-examples/actions/workflows/ci.yml/badge.svg" alt="Continuous integration"></a> <a href="LICENSE"><img src="assets/badges/license.svg" alt="MIT License"></a></p>
+<p align="center"><img src="assets/badges/python.svg" alt="Python 3.11+"> <img src="assets/badges/javascript.svg" alt="Node.js 22+"> <img src="assets/badges/dependencies.svg" alt="Zero runtime dependencies"> <a href="https://github.com/luiz7filipe/solucaptcha-examples/actions/workflows/ci.yml"><img src="https://github.com/luiz7filipe/solucaptcha-examples/actions/workflows/ci.yml/badge.svg" alt="Continuous integration"></a> <a href="LICENSE"><img src="assets/badges/license.svg" alt="MIT License"></a></p>
 
 # Exemplos de integração SoluCaptcha
 
@@ -24,7 +24,7 @@ Exemplos de servidor em **Python e JavaScript**, com clientes HTTP pequenos, pay
 ## Início rápido: sem chave e sem cobrança
 
 ```bash
-git clone https://github.com/7LCodes/solucaptcha-examples.git
+git clone https://github.com/luiz7filipe/solucaptcha-examples.git
 cd solucaptcha-examples
 
 # Python
@@ -79,18 +79,18 @@ Os payloads são modelos de configuração, não prova de disponibilidade ou suc
 ## Organização
 
 ```text
-assets/                 Brand artwork and local badges
+assets/                 Identidade visual e badges locais
 examples/
-  python/               Standard-library HTTP client and CLI examples
-  javascript/           Native-fetch HTTP client and CLI examples
-payloads/               Nine editable task payloads
+  python/               Cliente HTTP da biblioteca padrão e exemplos CLI
+  javascript/           Cliente HTTP com fetch nativo e exemplos CLI
+payloads/               Nove modelos editáveis de tarefas
 docs/
-  en-us/                English guides and HTTP reference
+  en-us/                Guias e referência HTTP em inglês
   pt-br/                Guias e referência HTTP em português
-generated/              Sanitized website guide output
-tests/                  Isolated Python and JavaScript tests
-tools/                  Guide builder and repository checks
-.github/                CI, issue forms and contribution templates
+generated/              Guias sanitizados para o website
+tests/                  Testes isolados em Python e JavaScript
+tools/                  Gerador de guias e verificações do repositório
+.github/                CI, formulários de issues e modelos de contribuição
 ```
 
 ## Qualidade e testes
@@ -113,3 +113,7 @@ A CI verifica Linux e Windows, versões de Python/Node.js, payloads, links inter
 - [MIT License](LICENSE)
 
 Para problemas de conta, cobrança ou tickets, use o [suporte oficial](https://solucaptcha.com/pt-br/contact). Não publique chaves, soluções, cookies ou dados de clientes em issues.
+
+---
+
+Mantido por [LCodes](https://github.com/luiz7filipe).

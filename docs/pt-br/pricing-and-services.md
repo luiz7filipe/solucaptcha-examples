@@ -68,4 +68,4 @@ O catálogo é público e não recebe sua chave. Os campos públicos são name, 
 - Consulte cost para a cobrança confirmada; reservedCost pode informar a reserva de uma tarefa ativa.
 - O saldo disponível é compartilhado pelas chaves da mesma conta. Mudanças de preço posteriores não alteram o preço já reservado de uma tarefa.
 
-[getBalance](https://solucaptcha.com/pt-br/docs/get-balance) · [Depósitos e saldo](https://solucaptcha.com/pt-br/docs/deposits) · [Demos dos serviços](https://solucaptcha.com/pt-br/demos) · [GitHub](https://github.com/7LCodes/solucaptcha-examples)
+[getBalance](https://solucaptcha.com/pt-br/docs/get-balance) · [Depósitos e saldo](https://solucaptcha.com/pt-br/docs/deposits) · [Demos dos serviços](https://solucaptcha.com/pt-br/demos) · [GitHub](https://github.com/luiz7filipe/solucaptcha-examples)

@@ -6,7 +6,7 @@ const list = (items) => ({ type: "list", items });
 const links = (items) => ({ type: "links", items });
 const link = (label, href) => ({ label, href });
 const table = (headers, rows) => ({ type: "table", headers, rows });
-const repo = "https://github.com/7LCodes/solucaptcha-examples";
+const repo = "https://github.com/luiz7filipe/solucaptcha-examples";
 const task = {
   type: "turnstile",
   websiteURL: "https://solucaptcha.com/en-us/demos/turnstile",
